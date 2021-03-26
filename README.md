@@ -9,7 +9,7 @@ naturenomad/naturenomad is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Repos which have been created for reskilling in current interest areas -
+The following repos have been created for reskilling in current interest areas -
 - hackerrank - contains python and shell script exercises from this site
 - freecodecamp - not currently actively updated as code is going directly to the website repo, which is -
 - naturenomad.github.io - html, css and javascript front-end exercises mainly from freecodecamp
