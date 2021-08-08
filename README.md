@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naturenomad
-- 👀 I’m currently interested in coding challenges in R, python and bash, and web development with html5, css3 and javscript.
-- 💞️ I’m looking to collaborate on science and environmental projects.
+- 👀 I’m currently interested in coding challenges in R, Python and Bash, and web development with html5, css3 and javscript.
+- 💞️ I like collaborating on science and environmental projects.
 - 📫 How to reach me.. same username at protonmail.
 
 <!---
