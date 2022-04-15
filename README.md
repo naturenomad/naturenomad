@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @naturenomad
-- 👀 I’m currently interested in coding challenges in R, Python and Bash, and web development with HTML5, CSS3 and Javscript.
+- 👀 I’m currently interested in coding challenges Python, Bash, PostgreSql and web development with HTML5, CSS3 and Javscript.
 - 💞️ I like collaborating on science and environmental projects.
+- This github area is currently used mainly as a repository of exercises to stay fresh in these skills.
 - 📫 How to reach me.. same username at protonmail.
 
 <!---
@@ -13,3 +14,4 @@ The following repos have been created for skill workouts in current interest are
 - freecodecamp - not currently actively updated as code is going directly to the web portfolio repo, which is -
 - naturenomad.github.io - html5, css3 and javascript front-end exercises mainly from freecodecamp
 - futurelearn - exercises from the Wellcome Genome Campus Bioinformatics for Biologists course hosted on the futurelearn site, which covers linux, bash and R as well as genomics data practice.
+- postgresql - from pgexercises.com
