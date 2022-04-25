@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naturenomad, mainly a database developer, with a web developer past and strong natural sciences background and interests.
+- 👋 Hi, I’m @naturenomad, mainly a database developer, with a full stack web developer past and strong natural sciences background and interests.
 - 👀 I’m currently interested in coding challenges in Python, Linux/Bash, PostgreSql and web development with HTML5, CSS3 and Javscript/Typescript.
 - This github area is currently used mainly as a repository of exercises to stay fresh in these skills.
 - 📫 How to reach me.. same username at protonmail.
