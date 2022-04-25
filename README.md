@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @naturenomad
-- 👀 I’m currently interested in coding challenges Python, Bash, PostgreSql and web development with HTML5, CSS3 and Javscript.
-- 💞️ I like collaborating on science and environmental projects.
+- 👋 Hi, I’m @naturenomad, mainly a database developer, with a web developer past.
+- 👀 I’m currently interested in coding challenges in Python, Linux/Bash, PostgreSql and web development with HTML5, CSS3 and Javscript/Typescript.
 - This github area is currently used mainly as a repository of exercises to stay fresh in these skills.
 - 📫 How to reach me.. same username at protonmail.
 
